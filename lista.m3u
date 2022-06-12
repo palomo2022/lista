@@ -1,0 +1,286 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="2" tvg-id="" ,Canal 2 America
+https://edge1-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+
+#EXTINF:-1 tvg-chno="7" tvg-id="" , Canal 7 TV Publica
+https://edge1-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+
+#EXTINF:-1 tvg-chno="9" tvg-id="" , Canal 9
+https://edge1-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+
+
+#EXTINF:-1 tvg-chno="11" tvg-id="" , Canal 11 TELEFE
+https://edge1-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-id="" , Canal 13
+https://edge1-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-id="" , Net TV
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-id="" , Canal 26
+https://edge1-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
+
+#EXTINF:-1 tvg-chno="27" tvg-id="" , c5n
+https://edge1-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+
+#EXTINF:-1 tvg-chno="28" tvg-id="" , Cronica tv
+https://edge1-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-id="" , Canal A24
+https://edge1-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-id="" , TN Noticias
+https://edge1-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+
+#EXTINF:-1 tvg-chno="29" tvg-id="" , DeportTV
+https://edge1-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-id="" , TNT Sports
+https://edge1-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-id="" , ESPN Premium
+https://edge1-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-id="" , ESPN HD
+https://edge1-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-chno="33" tvg-id="" , ESPN2
+https://edge1-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+
+#EXTINF:-1 tvg-chno="34" tvg-id="" , ESPN3
+https://edge1-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-id="" , ESPN EXTRA
+https://edge1-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-id="" , Fox Sports
+https://edge1-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:-1 tvg-chno="37" tvg-id="" , Fox Sports 2
+https://edge1-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+
+#EXTINF:-1 tvg-chno="38" tvg-id="" , Fox Sports 3
+https://edge1-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
+#EXTINF:-1 tvg-chno="39" tvg-id="" , TyC Sports
+https://edge1-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+
+#EXTINF:-1 tvg-chno="40" tvg-id="" , National Geographic
+https://edge1-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+
+#EXTINF:-1 tvg-chno="41" tvg-id="" , NatGeo Wild
+https://edge1-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
+
+#EXTINF:-1 tvg-chno="42" tvg-id="" , Discovery Channel
+https://edge1-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+
+#EXTINF:-1 tvg-chno="43" tvg-id="" , History Channel
+https://edge1-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+
+#EXTINF:-1 tvg-chno="44" tvg-id="" , History channel 2
+https://edge1-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+
+#EXTINF:-1 tvg-chno="45" tvg-id="" , Discovery HyH
+https://edge1-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+
+#EXTINF:-1 tvg-chno="46" tvg-id="" , ID
+https://edge1-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+
+#EXTINF:-1 tvg-chno="47" tvg-id="" , FX
+https://edge1-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+
+#EXTINF:-1 tvg-chno="48" tvg-id="" , Cine Canal
+https://edge1-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+
+#EXTINF:-1 tvg-chno="49" tvg-id="" , Sony HD
+https://edge1-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+
+#EXTINF:-1 tvg-chno="50" tvg-id="" , Universal Channel
+https://edge1-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-id="" , WarnerTV
+https://edge1-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-id="" , AXN
+https://edge1-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+
+#EXTINF:-1 tvg-chno="53" tvg-id="" , Gourmet
+https://edge1-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
+
+#EXTINF:-1 tvg-chno="54" tvg-id="" , Telemundo
+https://edge1-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+
+#EXTINF:-1 tvg-chno="55" tvg-id="" , Canal de las Estrellas
+https://edge1-sl.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+
+#EXTINF:-1 tvg-chno="56" tvg-id="" , Pasiones
+https://edge1-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
+
+#EXTINF:-1 tvg-chno="57" tvg-id="" , Magazine
+https://edge1-sl.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+
+#EXTINF:-1 tvg-chno="58" tvg-id="" , E! Entertainment
+https://edge1-sl.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
+
+#EXTINF:-1 tvg-chno="59" tvg-id="" , Food Network
+https://edge1-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
+
+#EXTINF:-1 tvg-chno="60" tvg-id="" , Glitz/SA_SAGEMCOM/Glitz
+https://edge1-sl.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
+
+#EXTINF:-1 tvg-chno="61" tvg-id="" , Hola tv
+https://edge1-sl.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
+
+#EXTINF:-1 tvg-chno="62" tvg-id="" , KZO Entertainment
+https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_720p/index.m3u8
+
+#EXTINF:-1 tvg-chno="63" tvg-id="" , Lifetime
+https://edge1-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
+
+#EXTINF:-1 tvg-chno="64" tvg-id="" , Mas Chic
+https://edge1-sl.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
+
+#EXTINF:-1 tvg-chno="65" tvg-id="" , Metro
+https://edge1-sl.cvattv.com.ar/live/c6eds/Metro/SA_SAGEMCOM/Metro.m3u8
+
+#EXTINF:-1 tvg-chno="66" tvg-id="" , Telemax
+https://edge1-sl.cvattv.com.ar/live/c6eds/Telemax/SA_SAGEMCOM/Telemax.m3u8
+
+#EXTINF:-1 tvg-chno="67" tvg-id="" , TruTV
+https://edge1-sl.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
+
+#EXTINF:-1 tvg-chno="68" tvg-id="" , WOBI
+https://edge1-sl.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
+
+#EXTINF:-1 tvg-chno="69" tvg-id="" , AMC
+https://edge1-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
+
+#EXTINF:-1 tvg-chno="70" tvg-id="" , LN+
+https://edge1-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
+
+#EXTINF:-1 tvg-chno="71" tvg-id="" , PAKAPAKA
+https://edge1-sl.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
+
+#EXTINF:-1 tvg-chno="72" tvg-id="" , TATETI
+https://64vod-adaptive.akamaized.net/exp=1655042630~acl=%2Fcb11cbc4-cd97-473e-b332-0d191c7e57f7%2F%2A~hmac=192d5ed9e5d0c5837e61e6bf05cf76f81c7593592b69dbe277107bde00ca7076/cb11cbc4-cd97-473e-b332-0d191c7e57f7/sep/video/dd300b78/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="73" tvg-id="" , Cartoon Network
+https://edge1-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+
+#EXTINF:-1 tvg-chno="74" tvg-id="" , Boomerang
+https://edge1-sl.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
+
+#EXTINF:-1 tvg-chno="75" tvg-id="" , ToonCast
+https://edge1-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+
+#EXTINF:-1 tvg-chno="76" tvg-id="" , Nickelodeon
+https://edge1-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+
+#EXTINF:-1 tvg-chno="77" tvg-id="" , Nick Jr
+https://edge1-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
+
+#EXTINF:-1 tvg-chno="78" tvg-id="" , Disney Channel
+https://edge1-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+#EXTINF:-1 tvg-chno="79" tvg-id="" , DisneyJR
+https://edge1-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
+
+#EXTINF:-1 tvg-chno="80" tvg-id="" , Discovery Kids
+https://edge1-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+
+#EXTINF:-1 tvg-chno="81" tvg-id="" , CineMax
+https://edge1-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+
+#EXTINF:-1 tvg-chno="82" tvg-id="" , TMC
+https://edge1-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
+
+#EXTINF:-1 tvg-chno="83" tvg-id="" , ISAT
+https://edge1-sl.cvattv.com.ar/live/c6eds/ISAT/SA_SAGEMCOM/ISAT.m3u8
+
+#EXTINF:-1 tvg-chno="84" tvg-id="" , TNTSeries
+https://edge1-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+
+#EXTINF:-1 tvg-chno="85" tvg-id="" , TNT
+https://edge1-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+
+#EXTINF:-1 tvg-chno="86" tvg-id="" , Space
+https://edge1-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+
+#EXTINF:-1 tvg-chno="87" tvg-id="" , HBO
+https://edge1-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+
+#EXTINF:-1 tvg-chno="88" tvg-id="" , HBO2
+https://edge1-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+#EXTINF:-1 tvg-chno="89" tvg-id="" , HBO Family
+https://edge1-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+
+#EXTINF:-1 tvg-chno="90" tvg-id="" , HBO Extreme
+https://edge1-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+
+#EXTINF:-1 tvg-chno="91" tvg-id="" , HBO Signature
+https://edge1-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
+
+#EXTINF:-1 tvg-chno="92" tvg-id="" , HBO Plus
+https://edge1-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+
+#EXTINF:-1 tvg-chno="93" tvg-id="" , HBO Mundi
+https://edge1-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+
+#EXTINF:-1 tvg-chno="94" tvg-id="" , HBO Pop
+https://edge1-sl.cvattv.com.ar//live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+
+#EXTINF:-1 tvg-chno="95" tvg-id="" , Star Channel
+https://edge1-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1 tvg-chno="96" tvg-id="" , RT Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="97" tvg-id="" , CNN Español
+https://edge1-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
+
+#EXTINF:-1 tvg-chno="98" tvg-id="" , EuroNews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655048380/ei/W7SlYrbaOpamxgSWl7YQ/ip/132.255.200.8/id/JbKgQhFlMdU.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC3OgUGPPa8IbRTagB5z-hCf3LWw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPBmSHe5jCu2PwPbQF5kgqnVVsDInBlsWUG--kGsnVKIAiADduTPR8CNy0DmHoaKkZhy5ci0E1S8u_yefnC2MFUTTQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-chno="99" tvg-id="" , CGTN
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-chno="100" tvg-id="" , DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-chno="101" tvg-id="" , Canal Rural
+https://edge1-sl.cvattv.com.ar/live/c6eds/Canal_Rural/SA_SAGEMCOM/Canal_Rural.m3u8
+
+#EXTINF:-1 tvg-chno="102" tvg-id="" , IP Noticias
+https://edge1-sl.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_SAGEMCOM/Investigacion_Periodistica.m3u8
+
+#EXTINF:-1 tvg-chno="103" tvg-id="" , Allegro Music
+https://edge1-sl.cvattv.com.ar/live/c7eds/AllegroHD/SA_SAGEMCOM/AllegroHD.m3u8
+
+#EXTINF:-1 tvg-chno="104" tvg-id="" , Quiero Musica
+https://edge1-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-id="" , Much Music
+https://edge1-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
+
+#EXTINF:-1 tvg-chno="106" tvg-id="" , CM Musica
+https://edge1-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
+
+#EXTINF:-1 tvg-chno="107" tvg-id="" , Vorterix
+https://edge1-sl.cvattv.com.ar/live/c6eds/Vorterix/SA_SAGEMCOM/Vorterix.m3u8
+
+#EXTINF:-1 tvg-chno="108" tvg-id="" , MTV Hits
+https://edge1-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
+
+#EXTINF:-1 tvg-chno="109" tvg-id="" , HTV
+https://edge1-sl.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
+
+#EXTINF:-1 tvg-chno="110" tvg-id="" , MTV Music
+https://edge1-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+
+
+
+
+
